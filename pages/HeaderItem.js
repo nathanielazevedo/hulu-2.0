@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+
 
 function HeaderItem({Icon, title}) {
   return (
@@ -9,4 +10,4 @@ function HeaderItem({Icon, title}) {
   );
 }
 
-export default HeaderItem
+export default HeaderItem;
